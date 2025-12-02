@@ -1,2 +1,2 @@
 # Calculator1
-basic calculator
+basic calculator to practice python skills. 
